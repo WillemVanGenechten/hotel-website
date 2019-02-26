@@ -1,2 +1,9 @@
 # hotel-website
-enkel html &amp; css 
+
+## Beschrijving 
+
+Statische website met een hotel thema. Enkel html en css. 
+
+# link 
+
+
