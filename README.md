@@ -1,8 +1,12 @@
 # hotel-website
 
-## Beschrijving 
+## Description
 
-Statische website met een hotel thema. Enkel html en css. 
+Static responsive website with hotel theme.
+
+## Tech
+
+Html & Css
 
 ## link
 
